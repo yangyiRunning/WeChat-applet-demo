@@ -1,11 +1,12 @@
 # WeChat-applet-demo
 include WeChat json,js,xml,css. 
 ### 演示效果图如下：
-<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/WX20170109-225131@2x.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
-<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/WX20170109-230119@2x.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
-<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/WX20170109-230150@2x.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
-<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/WX20170109-230947@2x.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
-<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/WX20170109-231049@2x.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序组件.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序接口.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序文件.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序图片.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序背景音乐.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序动画.png?raw=true' width="250px" style='border: #f1f1f1 solid 1px'/>
 
 ## License
 
