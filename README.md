@@ -1,5 +1,5 @@
 # WeChat-applet-demo
-include WeChat json,js,xml,css. 
+An example of a WeChat applet is collected and compiled——including WeChat js, json, xml, css and other documents
 ### 演示效果图如下：
 #### 组件：
 <img src='https://github.com/yangyiRunning/WeChat-applet-demo/blob/master/others/小程序组件.png?raw=true' width="300px" style='border: #f1f1f1 solid 1px'/>
